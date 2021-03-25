@@ -1,0 +1,42 @@
+<div></div>
+
+<style>
+  body {
+    background: #F5D6B4;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
+
+  div {
+    width: 100px;
+    height: 100px;
+    background: #D86F45;
+    position: absolute;
+    border-radius: 1000px;
+    top: 85;
+    left: 180
+  }
+
+  div:before {
+    content: ' ';
+    position: absolute;
+    top: 80;
+    left: -40;
+    width: 160px;
+    height: 50px;
+    background: #D86F45;
+    border-radius: 50px;
+  }
+
+  div:after {
+    content: ' ';
+    position: absolute;
+    background: #D86F45;
+    width: 100px;
+    height: 100px;
+    top: 30;
+    left: -80;
+    border-radius: 50%;
+  }
+</style>
