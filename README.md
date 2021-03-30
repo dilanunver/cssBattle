@@ -44,7 +44,6 @@ eyeOfSauron
 
 ![Screenshot (17)](https://user-images.githubusercontent.com/75390608/112808025-3b991080-9081-11eb-896c-f2778989b10f.png)
 
-
 wigglyMoustache
 
 ![Screenshot (16)](https://user-images.githubusercontent.com/75390608/112808464-a9ddd300-9081-11eb-878b-ef72b260b07d.png)
@@ -112,3 +111,11 @@ lockup
 cups&balls
 
 ![Screenshot (2)](https://user-images.githubusercontent.com/75390608/112804313-f1ae2b80-907c-11eb-9fba-952080941467.png)
+
+suffocate
+
+![Screenshot (43)](https://user-images.githubusercontent.com/75390608/112946958-d7d51d00-913e-11eb-9177-b4de0a136935.png)
+
+horizon
+
+![Screenshot (45)](https://user-images.githubusercontent.com/75390608/112948991-6480da80-9141-11eb-96b6-3cc33f842b93.png)
