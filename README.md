@@ -121,4 +121,9 @@ horizon
 ![Screenshot (45)](https://user-images.githubusercontent.com/75390608/112948991-6480da80-9141-11eb-96b6-3cc33f842b93.png)
 
 equals
+
 ![Screenshot (46)](https://user-images.githubusercontent.com/75390608/113101409-5b594180-9205-11eb-9832-5aba0b3edb09.png)
+
+band-aid
+
+![Screenshot (47)](https://user-images.githubusercontent.com/75390608/113104003-ac1e6980-9208-11eb-86cb-eccbcf996f81.png)
