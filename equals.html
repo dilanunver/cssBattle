@@ -1,0 +1,30 @@
+<div></div>
+<div></div>
+<style>
+  body {
+    background: #AA445F;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 400px;
+    height: 300px;
+  }
+
+  div {
+    position: absolute;
+    left: 75;
+    border: 100px solid #F7EC7D;
+    border-radius: 50%;
+    border-right-color: transparent;
+    border-top-color: transparent;
+    transform: rotate(45deg);
+  }
+
+  div:nth-child(2) {
+    position: relative;
+    left: 25;
+    transform: rotate(-135deg);
+    border-left-color: #E38F66;
+    border-bottom-color: #E38F66;
+  }
+</style>

@@ -119,3 +119,6 @@ suffocate
 horizon
 
 ![Screenshot (45)](https://user-images.githubusercontent.com/75390608/112948991-6480da80-9141-11eb-96b6-3cc33f842b93.png)
+
+equals
+![Screenshot (46)](https://user-images.githubusercontent.com/75390608/113101409-5b594180-9205-11eb-9832-5aba0b3edb09.png)
