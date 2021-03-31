@@ -126,4 +126,4 @@ equals
 
 band-aid
 
-![Screenshot (47)](https://user-images.githubusercontent.com/75390608/113104003-ac1e6980-9208-11eb-86cb-eccbcf996f81.png)
+![Screenshot (47)](https://user-images.githubusercontent.com/75390608/113104639-7463f180-9209-11eb-93e0-e89d802438bc.png)
