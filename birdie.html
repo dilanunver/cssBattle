@@ -1,0 +1,41 @@
+<div></div>
+<div class='right'></div>
+<style>
+  body {
+    background: #1A4341;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 400px;
+    height: 300px;
+  }
+
+  div {
+    position: absolute;
+    border: 75px solid #998235;
+    border-radius: 50%;
+    border-right-color: transparent;
+    border-top-color: transparent;
+    transform: rotate(45deg);
+  }
+
+  div:after {
+    content: '';
+    width: 30px;
+    height: 30px;
+    background: #0B2429;
+    border-radius: 50%;
+    position: absolute;
+    top: -15;
+    left: -57;
+  }
+
+  .right {
+    border: 100px solid #F3AC3C;
+    position: absolute;
+    border-left-color: transparent;
+    left: 105;
+    border-bottom-color: transparent;
+    border-right-color: transparent;
+  }
+</style>
