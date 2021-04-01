@@ -131,3 +131,11 @@ band-aid
 birdie
 
 ![Screenshot (50)](https://user-images.githubusercontent.com/75390608/113106920-f9500a80-920b-11eb-9add-d6f7c28d6c3f.png)
+
+christmasTree
+
+![Screenshot (52)](https://user-images.githubusercontent.com/75390608/113253302-b8b8c580-92cd-11eb-82d2-96de62793aab.png)
+
+ice-cream
+
+![Screenshot (54)](https://user-images.githubusercontent.com/75390608/113261325-ff132200-92d7-11eb-8422-de59b9850299.png)
